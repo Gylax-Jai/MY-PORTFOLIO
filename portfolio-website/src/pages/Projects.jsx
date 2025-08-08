@@ -33,7 +33,7 @@ const Projects = () => {
       'A modern personal portfolio built in React with Tailwind CSS, showcasing projects, skills, and contact form with animations and responsive design.',
     tech: ['React', 'Tailwind CSS', 'JavaScript'],
     github: 'https://github.com/Gylax-Jai/MY-PORTFOLIO',
-    live: 'https://jai-portfolio-react-ten-sigma.vercel.app'
+    live: 'https://jai-portfolio-omega.vercel.app'
   },
   {
     title: 'Music Player UI',
@@ -100,7 +100,7 @@ const Projects = () => {
                   className="flex items-center gap-2 bg-cyan-600 px-4 py-2 rounded-md hover:bg-cyan-500 transition"
                 >
                   <FaExternalLinkAlt />
-                  Live Demo
+                  Live Site
                 </a>
               )}
             </div>
